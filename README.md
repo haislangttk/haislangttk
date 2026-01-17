@@ -1,13 +1,11 @@
-<div align="center">
-  <pre style="border: 2px solid #888; border-radius: 8px; padding: 10px; width: fit-content;">
-> System.out.print("Hello world");
-  </pre>
-</div>
+<h3 align="center">> System.out.print("Hello world");</h3>
 
+---
 ###
 
 <p align="left">💻 Backend Developer in training  <br>📚 Studying Java and Object-Oriented Programming  <br>🚀 Learning the fundamentals of clean code and logic</p>
 
+---
 ###
 
 <p align="left">⚙️ Tech Stack</p>
@@ -24,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
+---
 ###
 
 <p align="left">🔗 My Social Links</p>
@@ -39,6 +38,7 @@
   </a>
 </div>
 
+---
 ###
 
 <picture>

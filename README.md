@@ -1,4 +1,8 @@
-<h3 align="center">{{ Hello world, I'm Gutto }}</h3>
+<div align="center">
+  <pre style="border: 2px solid #888; border-radius: 8px; padding: 10px; width: fit-content;">
+> System.out.print("Hello world");
+  </pre>
+</div>
 
 ###
 
@@ -6,15 +10,23 @@
 
 ###
 
+<p align="left">⚙️ Tech Stack</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
+
+###
+
+<p align="left">🔗 My Social Links</p>
 
 ###
 

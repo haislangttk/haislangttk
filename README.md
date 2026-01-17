@@ -37,6 +37,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/haislangttk/haislangttk/output/pacman-contribution-graph.svg">
 </picture>
 
+![Pacman Contributions](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 ###
 
 <div>
